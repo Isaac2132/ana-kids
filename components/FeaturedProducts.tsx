@@ -30,7 +30,7 @@ export default function FeaturedProducts() {
                   src={product.image}
                   alt={product.name}
                   fill
-                  className="object-cover"
+                  className="object-contain"
                 />
               </div>
               <div className="p-4 flex flex-col flex-1">
