@@ -14,7 +14,7 @@ export const products: Product[] = [
     name: "Conjunto Off-White",
     description: "1 até 2 anos ",
     price: 70.0,
-    image:"/produtos/vestiddo-offwhite.jpeg",
+    image:"/produtos/vestido-offwhite.jpeg",
     //category: "Vestidos",
   },
    {
@@ -40,7 +40,7 @@ export const products: Product[] = [
     name: "Conjunto verde-musgo",
     description: "5 à 6 anos",
     price: 70.0,
-    image: "/produtos/verde-musgo.jpeg",
+    image: "/produtos/conjunto-verde-musgo.jpeg",
     //category: "Vestidos",
   },
   {
@@ -57,7 +57,7 @@ export const products: Product[] = [
     name: "Vestido Estampado",
     description: "7 à 8 anos",
     price: 80.0,
-    image: "/produtos/vestido-estampado02.jpeg",
+    image: "/produtos/vestido-estampad.jpeg",
     //category: "Vestidos",
   },
 
@@ -75,7 +75,7 @@ export const products: Product[] = [
     name: "Vestido Estampado",
     description: "7 à 8 anos",
     price: 80.0,
-    image: "/produtos/Vestido-Estampado.jpeg",
+    image: "/produtos/vestido-Estampado.jpeg",
     //category: "Vestidos",
   },
 
