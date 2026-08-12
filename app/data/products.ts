@@ -109,7 +109,7 @@ export const products: Product[] = [
     name: "Vestido Vermelho",
     description: "7 até 9 anos",
     price: 80.0,
-    image: "/produtos/Vestido-vermelho.jpeg",
+    image: "/produtos/vestido-jpg.jpeg",
     //category: "Vestidos",
   },
 ];
