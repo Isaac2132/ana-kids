@@ -46,7 +46,7 @@ export const products: Product[] = [
   {
     id: "5",
     name: "Macaquinho-Estampado",
-    description: "1 à 2",
+    description: "1 à 2 anos",
     price: 60.0,
     image: "/produtos/Macaquinho-estampado01.jpeg",
     //category: "Vestidos",
@@ -55,7 +55,7 @@ export const products: Product[] = [
    {
     id: "6",
     name: "Vestido Estampado",
-    description: "7 à 8 ",
+    description: "7 à 8 anos",
     price: 80.0,
     image: "/produtos/Vestido-Estampado02.jpeg",
     //category: "Vestidos",
@@ -64,7 +64,7 @@ export const products: Product[] = [
     {
     id: "7",
     name: "Vestido-Princesa",
-    description: "1 à 2",
+    description: "1 à 2 anos",
     price: 80.0,
     image: "/produtos/vestido-princesa.jpeg",
     //category: "Vestidos",
