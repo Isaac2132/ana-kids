@@ -92,7 +92,7 @@ export const products: Product[] = [
     name: "Vestido Azul-Claro",
     description: "7 até 9 anos",
     price: 80.0,
-    image: "/produtos/vestido azul-claro.jpeg",
+    image: "/produtos/vestido-azul-claro.jpeg",
     //category: "Vestidos",
   },
    {
@@ -100,7 +100,7 @@ export const products: Product[] = [
     name: "Vestido Verde-Musgo",
     description: "2 à 3 anos",
     price: 80.0,
-    image: "/produtos/vestido-verde-musgo.jpeg",
+    image: "/produtos/verde-musgo.jpeg",
     //category: "Vestidos",
   },
 
