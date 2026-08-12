@@ -57,7 +57,7 @@ export const products: Product[] = [
     name: "Vestido Estampado",
     description: "7 à 8 anos",
     price: 80.0,
-    image: "/produtos/vestido-estampado02",
+    image: "/produtos/vestido-estampado02.jpeg",
     //category: "Vestidos",
   },
 
