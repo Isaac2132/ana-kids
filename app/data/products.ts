@@ -57,7 +57,7 @@ export const products: Product[] = [
     name: "Vestido Estampado",
     description: "7 à 8 anos",
     price: 80.0,
-    image: "/produtos/Vestido-Estampado02.jpeg",
+    image: "/produtos/vestido-estampado02",
     //category: "Vestidos",
   },
 
@@ -100,7 +100,7 @@ export const products: Product[] = [
     name: "Vestido Verde-Musgo",
     description: "2 à 3 anos",
     price: 80.0,
-    image: "/produtos/vestido verde-musgo.jpeg",
+    image: "/produtos/vestido-verde-musgo.jpeg",
     //category: "Vestidos",
   },
 
