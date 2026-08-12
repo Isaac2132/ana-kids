@@ -22,7 +22,7 @@ export const products: Product[] = [
     name: "Conjunto rosa-claro",
     description: "7 à 8 anos",
     price: 70.0,
-    image: "/produtos/conjunto-rosa claro.jpeg",
+    image: "/produtos/conjunto-rosa-claro.jpeg",
     //category: "Vestidos",
   },
  
@@ -57,7 +57,7 @@ export const products: Product[] = [
     name: "Vestido Estampado",
     description: "7 à 8 anos",
     price: 80.0,
-    image: "/produtos/vestido-estampad.jpeg",
+    image: "/produtos/vestido-estampado02.jpeg",
     //category: "Vestidos",
   },
 
@@ -75,7 +75,7 @@ export const products: Product[] = [
     name: "Vestido Estampado",
     description: "7 à 8 anos",
     price: 80.0,
-    image: "/produtos/vestido-Estampado.jpeg",
+    image: "/produtos/vestido-estampado02.jpeg",
     //category: "Vestidos",
   },
 
